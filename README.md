@@ -1,4 +1,4 @@
-### Hi there :wave:, I'm Thomas
+### Hi there :wave:, I'm Thomas *[ˈtoːmas]*
 
 - :house: living in Hamburg
 - :hammer_and_wrench: working as a Technical Agile Coach, contributing to making the best [public health insurance](https://tk.de/IT) even better
